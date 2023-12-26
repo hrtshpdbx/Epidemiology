@@ -4,7 +4,9 @@ EPIDEMIOLOGY
 MEMBERS
 
 Ragha Sai
+
 Smruthi Bhat
+
 Aditya V
 
 AIM
@@ -18,11 +20,17 @@ The rapid spread of infectious diseases has always been a significant concern fo
 LIBRARIES USED
 
 Numpy
+
 matplotlib
+
 Scipy
+
 Sklearn
+
 Pygame
+
 Sys
+
 networkx
 
 IMPLEMENTATION
