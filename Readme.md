@@ -1,3 +1,26 @@
+EPIDEMIOLOGY
+
+MEMBERS
+Ragha Sai
+Smruthi Bhat
+Aditya V
+
+AIM
+Develop a comprehensive simulation model to accurately represent the spread of an epidemic, assess the impact of various intervention strategies, and create an interactive visualization tool to raise public awareness and aid decision-making for effective epidemic management.
+
+INTRODUCTION
+The rapid spread of infectious diseases has always been a significant concern for public health and global well-being. Recent events, such as the COVID-19 pandemic, have highlighted the need for accurate and timely understanding of how epidemics spread and the potential impact they can have on populations. In response to these challenges, our project aims to develop a comprehensive simulation of epidemic spread, utilizing advanced computational models and simulation techniques.
+
+LIBRARIES USED
+Numpy
+matplotlib
+Scipy
+Sklearn
+Pygame
+Sys
+networkx
+
+IMPLEMENTATION
 This repository contains 5 Python programs along with a dataset on covid data from different countries
 
 1. COVID Data Analysis (covid_data_analysis.py)
