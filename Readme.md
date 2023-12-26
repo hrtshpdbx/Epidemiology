@@ -1,11 +1,10 @@
 EPIDEMIOLOGY
 
+
 MEMBERS
 
 Ragha Sai
-
 Smruthi Bhat
-
 Aditya V
 
 AIM
@@ -19,17 +18,11 @@ The rapid spread of infectious diseases has always been a significant concern fo
 LIBRARIES USED
 
 Numpy
-
 matplotlib
-
 Scipy
-
 Sklearn
-
 Pygame
-
 Sys
-
 networkx
 
 IMPLEMENTATION
@@ -37,18 +30,12 @@ IMPLEMENTATION
 This repository contains 5 Python programs along with a dataset on covid data from different countries
 
 1. COVID Data Analysis (covid_data_analysis.py)
-
 Analyzes COVID-19 data using a logistic function to model the growth of cases.
-
 Utilizes numpy, matplotlib, scipy, and sklearn libraries.
 
-
 2. Epidemic Simulation (epidemic_simulation.py)
-
 Simulates the spread of an epidemic in a population using a simple agent-based model.
-
 Implements periodic boundary conditions.
-
 Utilizes the pygame library for visualization.
 
 3. SIR Model Animation (sir_model_animation.py)
